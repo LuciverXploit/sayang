@@ -5,3 +5,6 @@ LuciXpl=u0_a214Bahsbnsu0_a214Lx28
 LuciXpl=u0_a265Bahsbnsu0_a265Lx28
 LuciXpl=u0_a207Bahsbnsu0_a207Lx28
 LuciXpl=u0_a513Bahsbnsu0_a513Lx28
+LuciXpl=u0_a715Bahsbnsu0_a715Lx28
+LuciXpl=u0_a341Bahsbnsu0_a341Lx28
+LuciXpl=u0_a147Bahsbnsu0_a147Lx28

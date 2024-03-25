@@ -49,3 +49,4 @@ LuciXpl=u0_a126Bahsbnsu0_a126Lx28
 LuciXpl=u0_a185Bahsbnsu0_a185Lx28
 LuciXpl=u0_a249Bahsbnsu0_a249Lx28
 LuciXpl=u0_a179Bahsbnsu0_a179Lx28
+LuciXpl=u0_a254Bahsbnsu0_a254Lx28
